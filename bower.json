@@ -1,0 +1,32 @@
+{
+  "name": "angular-files-model",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tsaikd/angular-files-model",
+  "authors": [
+    "tsaikd <tsaikd@gmail.com>"
+  ],
+  "description": "AngularJS directive that allows input element's of type file to be handled in models inside a controller's scope",
+  "keywords": [
+    "angular",
+    "human",
+    "readable",
+    "time",
+    "seconds",
+    "i18n"
+  ],
+  "license": "LGPLv3",
+  "dependencies": {
+    "angular": ">=1.2",
+    "angular-translate": ">=2"
+  },
+  "main": [
+    "angular-files-model.min.js"
+  ],
+  "ignore": [
+    "node_modules",
+    "lib",
+    "src",
+    "Gruntfile.js",
+    "package.json"
+  ]
+}
