@@ -1,6 +1,6 @@
 {
   "name": "angular-files-model",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "AngularJS directive that allows input element's of type file to be handled in models inside a controller's scope",
   "devDependencies": {
     "grunt": ">=0",

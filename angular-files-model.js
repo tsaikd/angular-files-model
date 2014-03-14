@@ -1,3 +1,8 @@
+/* angular-files-model v0.1.1 2014-03-14
+ * https://github.com/tsaikd/angular-files-model
+ * License: LGPLv3
+ */
+(function(){
 var app = angular
 
 .module("angular-files-model", [])
@@ -27,3 +32,4 @@ app
 }])
 
 ;
+}).call(this);
